@@ -6,3 +6,5 @@ Deep Learning Project로 느티나무 질병 데이터셋을 활용한 질병 �
 
 사용한 모델은 ResNet18, VGG16, DesNet201, EfficientNet-B7이다.
 기법은 Cycle gan을 활용한 데이터 증강, HyperParameter 조정, Data Augmentation, GridCAM이 있다.
+
+팀프로젝트는 6팀 중 최종 2등을 하였다.
